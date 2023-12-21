@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(340,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(340,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(573,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(573,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(589,26): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(596,37): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(606,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(609,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(612,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\MindsweeperCode1\main.cpp(615,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MindsweeperCode1.vcxproj -> C:\Users\lduli\OneDrive\Documents\Visual Studio 2022\MindsweeperCode1\x64\Debug\MindsweeperCode1.exe
