@@ -1,5 +1,6 @@
 # Minesweeper
 Author: Lauren Dulick
+
 E-Portfolio: https://ldulick17.wixsite.com/e-portfolio
 
 ![minesweepPic](https://github.com/lmdulick/Minesweeper/assets/116673406/5d9fa858-d41c-4dcb-8a82-184aaad332b5)
